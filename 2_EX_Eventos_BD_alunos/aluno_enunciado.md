@@ -103,7 +103,7 @@ Escreva consultas SQL para:
 
 SELECT * FROM eventos
 
-![alt text](image-1.png)
+![alt text](Prints/image-1.png)
 
 --------------------------------------------
 
@@ -122,7 +122,7 @@ WHERE vagas_disponiveis > 0;
 
 ```
 
-![alt text](image.png)
+![alt text](Prints/image.png)
 
 -----------------------------------------------------
 
@@ -145,7 +145,7 @@ WHERE eventos.titulo = 'Workshop de IA';
 
 ```
 
-![alt text](image-3.png)
+![alt text](Prints/image-3.png)
 
 -----------------------------------------------------
 
